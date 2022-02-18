@@ -1,4 +1,4 @@
-### Hi there , I am Abhishek Soni 👋
+### Hi there , I am Abhishek Soni 👋. I'm an aspiring full stack developer. I know about React-Redux, Javascript, HTML, CSS. I like watching anime.  
 
 <img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png"/>
 
@@ -19,19 +19,17 @@ Find out more about me and feel free to connect with me here:
 <hr/>
 <h1>Tech stacks</h1>
 <h3>Languages</h3>
-<p> C++ </p>
-<p>Javascript</p>
-<p>HTML5</p>
-<p>CSS</p>
+ <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" style="height: 20px;width:20 px"/>
+<p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></p>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <h3>Libraries and framework</h3>
-<p>React</p>
-<p>Redux</p>
-<p> chakra UI</p>
-<h3>Tools and Platform</h3>
-<p>Github pages</p>
-<p>Git</p>
-<p>Visual Studio Code</p>
-<p>Canva</p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" style="height:60px;width:80px"/>
+
 <hr/>
 ## 📈 Stats
 <p align="center">
