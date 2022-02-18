@@ -31,7 +31,7 @@ Find out more about me and feel free to connect with me here:
 <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" style="height:60px;width:80px"/>
 
 <hr/>
-## 📈 Stats
+📈 Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek&show_icons=true&hide_border=true&theme=gotham" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrrupendra&hide_border=true&theme=gotham" />
